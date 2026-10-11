@@ -1,0 +1,8 @@
+{
+  "name": "ตำรับน้ำพริกไทยโบราณ - เมนู 50 บาท & สูตรวิธีทำ",
+  "description": "เว็บรวมเมนูน้ำพริกไทยรสเด็ด ราคาเดียว 50 บาท พร้อมสูตรวิธีทำทีละขั้นตอนอย่างละเอียด",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
